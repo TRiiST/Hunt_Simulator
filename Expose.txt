@@ -1,0 +1,39 @@
+Das Exposé ist wie folgt gegliedert
+1. „Hunt Simulator“ (Moorhuhn)
+
+
+2. Das Spiel basiert auf den Klassischen Moorhuhn Prinzipe. 
+Es fliegen Vögel von links nach rechts und das Ziel ist es so viele Vögel wie möglich abzuschießen.
+
+
+3. Features
+3.1 Umgebung: Der Hintergrund ist ein idyllisches Feld mit Bergen im Hintergrund und bestes Wetter zum Jagen. 
+Es ist deine Waffe zu sehen und dein Mauszeiger ist dein Fadenkreuz/Visier.
+
+3.2 Spieleraktionen: Der Spieler muss mit seinem Mauszeiger die Vögel berühren und mit der linken Maustaste abschießen. 
+Wenn das Dem Spieler gelingt, verschwindet der Vogel und der Spieler bekommt ein Punkt.
+
+3.3 Andere aktive Elemente: Die Vögel Spawnen von der linken Position und fliegen zu der rechten, 
+dabei ist die Höhe zufällig Eine Waffe folgt dem Mauszeiger Visuell.
+
+3.4 Punktesystem: Für jeden abgeschossenen Vogel gibt es ein Punkt
+
+3.5 Ziel des Spiels/Spielende: Das Spiel endet, 
+wenn Die Maximale Anzahl von Vögeln von links nach rechts geflogen sind das Ziel dabei ist es so viele wie möglich zu erschießen 
+
+3.6 Spielverwaltung: Das Spiel kann mit „Q“ oder Escape geschlossen werden, das Spiel schließt nach dem Final Screen auch nach einer Zeit
+
+
+4. Quellen
+
+4.2 im Dokument Quellen.txt
+
+
+5. Übersicht
+
+5.1 Muss-Features: Mindestens 10 Vögel von links nach rechts fliegen und wenn man sie anklickt sie verschwinden, 
+und der Spieler ein Punkt bekommt, wenn man sie nicht trifft fliegt der Vogel bis zum Ende des rechten Screens und spawnt in zufälliger Höhe links neue.
+
+5.2 Kann-Features: implementieren von Sound, ein Score System, verschiedene Geschwindigkeiten der Vögel.
+
+
